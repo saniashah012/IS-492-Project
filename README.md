@@ -1,20 +1,22 @@
-## 1. Project Title & Tagline
+# 1. Project Title & Tagline
 
-**InboxToTask** — *Turn the things you need to remember in your inbox into actions you can actually track.*
+## **InboxToTask**
+
+*Turn the things you need to remember in your inbox into actions you can actually track.*
 
 ## 2. Team Members & Roles
 
-- Matthew Zheng — [mzheng22@illinois.edu](mailto:mzheng22@illinois.edu)  
-  Product Strategy and Research
+- **Matthew Zheng** — [mzheng22@illinois.edu](mailto:mzheng22@illinois.edu)<br>
+  *Product Strategy and Research*
 
-- Yuchen Zhang — [yuchen71@illinois.edu](mailto:yuchen71@illinois.edu)  
-  Literature Review and Research
+- **Yuchen Zhang** — [yuchen71@illinois.edu](mailto:yuchen71@illinois.edu)<br>
+  *Literature Review and Research*
 
-- Hua Tong — [huat2@illinois.edu](mailto:huat2@illinois.edu)  
-  UX/UI Design and User Research
+- **Hua Tong** — [huat2@illinois.edu](mailto:huat2@illinois.edu)<br>
+  *UX/UI Design and User Research*
 
-- Sania Shah — [sania2@illinois.edu](mailto:sania2@illinois.edu)  
-  Product Ideation, Design, and Research
+- **Sania Shah** — [sania2@illinois.edu](mailto:sania2@illinois.edu)<br>
+  *Product Ideation, Design, and Research*
 
 ## 3. Problem Statement & Motivation
 
@@ -32,11 +34,11 @@ The target users include college students who need to manage multiple course ass
 
 ## 5. Competitive Landscape
 
-- [Gemini](https://workspace.google.com/products/gmail/ai/) — Requires manual prompts or chat per email; lacks automatic detection, background extraction, and direct sync into organized task lists. The standard experience is manual and reactive; proactive features require manual rule setup.
+- **[Gemini](https://workspace.google.com/products/gmail/ai/)** — Requires manual prompts or chat per email; lacks automatic detection, background extraction, and direct sync into organized task lists. The standard experience is manual and reactive; proactive features require manual rule setup.
 
-- [Copilot](https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook) — Operates primarily as an interactive LLM chat assistant rather than a background automated pipeline that proactively identifies action items across incoming emails. The default behavior is conversational assistance; autonomous background sync requires separate configuration.
+- **[Copilot](https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook)** — Operates primarily as an interactive LLM chat assistant rather than a background automated pipeline that proactively identifies action items across incoming emails. The default behavior is conversational assistance; autonomous background sync requires separate configuration.
 
-- [Claude](https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook) — It cannot continuously scan incoming mail. It only extracts items when you manually feed it an email or explicitly instruct the chat or connector to inspect a specific conversation. It is primarily an interactive LLM chat/API.
+- **[Claude](https://support.microsoft.com/en-us/outlook/copilot-outlook/chat-with-copilot-in-outlook)** — It cannot continuously scan incoming mail. It only extracts items when you manually feed it an email or explicitly instruct the chat or connector to inspect a specific conversation. It is primarily an interactive LLM chat/API.
 
 ## 6. Initial Concept & Value Proposition
 
