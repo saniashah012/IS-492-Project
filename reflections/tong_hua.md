@@ -20,4 +20,4 @@ This essay is mainly about how people use emails to manage tasks and why traditi
 
 # One Concrete Inspiration (1): A specific design idea, system pattern, or feature this paper inspires for your project.
 
-The concept of Thrasks inspired us to design InboxToTask around tasks rather than individual emails. Instead of simply extracting a deadline from an email, our system could create a task card that keeps the action, deadline, people involved, original email, and related attachments together. We could also support “waiting on” states for tasks that depend on another person’s response. This would help users maintain the context surrounding an action instead of treating each email as an isolated task.
+The idea of Thrasks provided the idea for developing the InboxToTask application based on the concept of tasks instead of individual emails. Our system would not have just to extract the deadline but could have created a task card which would have combined the action, the deadline, participants, email itself, and even attachments. In addition, we would be able to introduce “waiting on” state for tasks which were dependent on other people’s answers.
