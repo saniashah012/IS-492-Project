@@ -7,3 +7,7 @@ Mukherjee, S., Mukherjee, S., Hasegawa, M., Hassan Awadallah, A., & White, R. (2
 Kern, M., Ohly, S., Ďuranová, L., & Friedrichs, J. (2024). Drowning in emails: Investigating email classes and work stressors as antecedents of high email load and implications for well-being. Frontiers in Psychology, 15, Article 1439070. https://doi.org/10.3389/fpsyg.2024.1439070
 
 Mitchell, M., Ghosh, A., & Passi, S. (2026). AI agents push humans out of the loop. arXiv preprint arXiv:2608.23642. https://doi.org/10.48550/arXiv.2608.23642
+
+Cossatin, A. G., Ferrero, F., Ardissono, L., & Mauro, N. (2026). The autonomy equation: How agentic AI reshapes trust and workload in routine productivity applications. Information Processing & Management, 63(5), 104681. https://doi.org/10.1016/j.ipm.2026.104681
+
+Faulring, A., Myers, B., Mohnkern, K., Schmerl, B., Steinfeld, A., Zimmerman, J., Smailagic, A., Hansen, J., & Siewiorek, D. (2010). Agent-assisted task management that reduces email overload. Proceedings of the 15th International Conference on Intelligent User Interfaces, 61–70. https://doi.org/10.1145/1719970.1719980
