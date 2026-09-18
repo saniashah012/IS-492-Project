@@ -42,7 +42,11 @@ The target users include college students who need to manage multiple course ass
 
 ## 6. Initial Concept & Value Proposition
 
-InboxToTask is a GenAI-powered email assistant that turns actionable information from emails into structured next steps. The system recognizes different types of actions—such as tasks the user needs to complete, upcoming events or deadlines, or items they are waiting on—and suggests the appropriate way to track them. Users can review and confirm these suggestions before they are added to connected tools, reducing manual organization while keeping the user in control.
+InboxToTask is a GenAI-powered email assistant that turns actionable information from incoming emails into structured next steps. Rather than requiring users to manually identify and transfer important information from their inbox, the system analyzes emails for tasks, commitments, deadlines, events, and follow-ups and determines how that information should be tracked.
+The system uses contextual language understanding to distinguish between different types of responsibility and intent. For example, “Can you send the slides by Thursday?” represents a task assigned to the user, while “I’ll send you the slides by Thursday” represents a commitment from someone else that the user may need to follow up on. InboxToTask can also use relevant email-thread context to interpret references, dates, and other details that may not be contained within a single message.
+
+Detected actions are organized into categories such as Task Bearing Commitments and Passive Communication Noise. The system extracts relevant details—including the action, responsible person, deadline, and supporting context—and suggests an appropriate next step, such as creating a task, adding a calendar event, or tracking a commitment for follow-up. Users can review and edit AI-generated actions before they are synchronized with connected tools, and each action remains linked to its source email for verification.
+By combining semantic interpretation with structured action tracking, InboxToTask aims to reduce the repetitive organizational work between receiving information and acting on it, while preserving user visibility and control over AI-generated actions.
 
 ## 7. Milestones Roadmap
 
