@@ -22,7 +22,7 @@ This essay is mainly about how people use emails to manage tasks and why traditi
 # One Concrete Inspiration (1): A specific design idea, system pattern, or feature this paper inspires for your project.
 
 The concept of Thrasks inspired us to design InboxToTask around tasks rather than individual emails. Instead of simply extracting a deadline from an email, our system could create a task card that keeps the action, deadline, people involved, original email, and related attachments together. We could also support “waiting on” states for tasks that depend on another person’s response. This would help users maintain the context surrounding an action instead of treating each email as an isolated task.
----
+-------
 # Full Citation & Link: Complete APA reference with active URL.
 Whittaker, S., & Sidner, C. (1996). Email overload: Exploring personal information management of email. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 276–283. https://doi.org/10.1145/238386.238530
 
