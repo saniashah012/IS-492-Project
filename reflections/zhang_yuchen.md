@@ -3,7 +3,7 @@
 ## First Article
 1.Full Citation & Link: Complete APA reference with active URL.
 
-Cossatin, A. G., Ferrero, F., Ardissono, L., & Mauro, N. (2026). The autonomy equation: How agentic AI reshapes trust and workload in routine productivity applications. Information Processing & Management, 63(5), 104681. https://doi.org/10.1016/j.ipm.2026.104681
+Faulring, A., Myers, B., Mohnkern, K., Schmerl, B., Steinfeld, A., Zimmerman, J., Smailagic, A., Hansen, J., & Siewiorek, D. (2010). Agent-assisted task management that reduces email overload. Proceedings of the 15th International Conference on Intelligent User Interfaces, 61–70. https://doi.org/10.1145/1719970.1719980
 
 
 2.Structured Summary (4–6 sentences): Research Problem, Methodology, and Main Findings.
@@ -24,8 +24,7 @@ The specific design inspiration I gained from this study is that the project’s
 ## Second Article
 1.Full Citation & Link: Complete APA reference with active URL.
 
- Faulring, A., Myers, B., Mohnkern, K., Schmerl, B., Steinfeld, A., Zimmerman, J., Smailagic, A., Hansen, J., & Siewiorek, D. (2010). Agent-assisted task management that reduces email overload. Proceedings of the 15th International Conference on Intelligent User Interfaces, 61–70. https://doi.org/10.1145/1719970.1719980
-
+Cossatin, A. G., Ferrero, F., Ardissono, L., & Mauro, N. (2026). The autonomy equation: How agentic AI reshapes trust and workload in routine productivity applications. Information Processing & Management, 63(5), 104681. https://doi.org/10.1016/j.ipm.2026.104681
 
 2.Structured Summary (4–6 sentences): Research Problem, Methodology, and Main Findings.
 
