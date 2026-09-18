@@ -1,5 +1,6 @@
 # Yuchen Zhang
 
+## First Article
 1.Full Citation & Link: Complete APA reference with active URL.
 
 Cossatin, A. G., Ferrero, F., Ardissono, L., & Mauro, N. (2026). The autonomy equation: How agentic AI reshapes trust and workload in routine productivity applications. Information Processing & Management, 63(5), 104681. https://doi.org/10.1016/j.ipm.2026.104681
@@ -19,3 +20,24 @@ In an effort to reduce the likelihood of misclassifying ordinary emails as tasks
 
 5.One Concrete Inspiration (1): A specific design idea, system pattern, or feature this paper inspires for your project.
 The specific design inspiration I gained from this study is that the project’s design software could include a feature that automatically scans class chat groups, provides links to the original messages, and automatically fills in standard information—such as names and student ID numbers—in forms, while sorting entries by deadline and priority. This would save everyone the trouble of scrolling through hundreds of chat messages to find notifications and ensure that no tasks are overlooked.
+
+## Second Article
+1.Full Citation & Link: Complete APA reference with active URL.
+
+ Faulring, A., Myers, B., Mohnkern, K., Schmerl, B., Steinfeld, A., Zimmerman, J., Smailagic, A., Hansen, J., & Siewiorek, D. (2010). Agent-assisted task management that reduces email overload. Proceedings of the 15th International Conference on Intelligent User Interfaces, 61–70. https://doi.org/10.1145/1719970.1719980
+
+
+2.Structured Summary (4–6 sentences): Research Problem, Methodology, and Main Findings.
+
+This article focuses primarily on applying autonomous AI in office employees' daily work, examining whether AI systems with varying degrees of autonomy can improve efficiency and reduce workloads, and whether AI affects user trust. This research study recruited 230 participants for a controlled experiment. The results showed that both AI versions achieved a task accuracy rate of over 82%, which was significantly higher than the 65% achieved by the manual version. These findings indicate that AI systems reduce users’ workload.
+
+3.Three Key Insights (3): Distinct principles or takeaways learned.
+
+This paper presents a second key insight: First, it demonstrates that increasing the autonomy of artificial intelligence does not undermine user trust; on the contrary, it can tangibly improve work efficiency and reduce the workload. As long as operational transparency and users’ right to be informed are ensured, highly autonomous AI can earn the same level of trust as human-operated systems, thereby dispelling the common misconception that “the higher the autonomy, the lower the user trust.” Therefore, by granting permissions based on task risk levels, a balance can be struck between efficiency and a sense of security; second, models with moderate autonomy—that is, where “the AI proposes a solution and the user confirms it”—have the broadest applicability.
+
+4.Two Limitations or Risks (2): Weaknesses, edge cases, or ethical/technical concerns identified.
+
+The study also highlights two issues: First, current highly autonomous AI is not yet fully trustworthy. In the experiment, it failed to complete nearly 40 percent of the tasks it was supposed to handle. If users completely relinquished control and failed to verify the results, they could easily overlook important work and cause delays. Furthermore, this experiment only tested the system’s performance during a short, 5-minute usage period; it did not explore whether long-term reliance on highly autonomous AI could lead to issues such as a decline in users’ problem-solving abilities or excessive dependence. Additionally, the simulated scenarios could not fully replicate the complex communication and stakeholder dynamics found in real-world office environments. Second, the experimental data only covered routine scenarios with minor consequences, such as organizing emails and coordinating schedules. However, large language models inherently suffer from technical issues like “hallucinations” and judgment biases. If this autonomous logic were directly applied to high-risk scenarios—such as funding approvals or the issuance of formal legal documents—an AI misjudging the risk level and acting on its own could result in irreparable real-world losses.
+
+5.One Concrete Inspiration (1): A specific design idea, system pattern, or feature this paper inspires for your project.
+This research has led me to believe that we could add some features to this project—for example, we could develop a flexible, adaptable AI office assistant. Normally, the AI would silently scan work-related information across all platforms, handle low-risk, routine tasks such as recording to-dos and sending standard acknowledgments, and once completed, leave a record of the actions in the sidebar that can be undone with a single click.
